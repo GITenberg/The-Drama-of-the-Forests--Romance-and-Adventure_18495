@@ -1,0 +1,31 @@
+_repo: The-Drama-of-the-Forests--Romance-and-Adventure_18495
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Heming, Arthur
+    alias: Heming, Arthur Henry Howard
+    birthdate: 1871
+    deathdate: 1940
+    gutenberg_agent_id: '8067'
+    url: http://www.gutenberg.org/2009/agents/8067
+description: ''
+gutenberg_bookshelf: Native America
+gutenberg_issued: '2006-06-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '18495'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Hunting -- Canada'
+- !lcsh 'Ojibwa Indians'
+- !lcsh 'Northwest, Canadian -- Description and travel'
+- !lcsh 'Indians of North America -- Canada'
+- !lcc 'F1001'
+title: 'The Drama of the Forests: Romance and Adventure'
+url: http://www.gutenberg.org/ebooks/18495
